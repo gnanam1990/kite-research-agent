@@ -8,6 +8,12 @@ This repository is built from the staged OpenCode prompt pack in `prompts/`.
 
 Monitor Kite activity, wallets, contracts, product changes, and alerts to produce research briefs.
 
+## Proof of Work
+
+- Live Vercel deployment: https://kite-research-agent.vercel.app
+- Public proof report: [docs/PROOF_OF_WORK.md](docs/PROOF_OF_WORK.md)
+- Rendered screenshot: [docs/screenshot.jpg](docs/screenshot.jpg)
+
 ## Core modules
 
 - **On-chain Event Watcher** — Monitor blocks, txs, wallets, contracts, and token transfers.
